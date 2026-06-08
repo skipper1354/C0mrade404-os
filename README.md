@@ -1,6 +1,3 @@
-i like coding and playing the drums!
-dont mind my repos, i didnt know you could edit them...
+i like coding and playing the drums
 
 ## Just Monika.
-
-also chaz and riley are the tuffest beings ever
